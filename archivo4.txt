@@ -1,21 +1,2 @@
-<<<<<<< HEAD
 linea1
-<<<<<<< HEAD
-<<<<<<< HEAD
 linea2
-<<<<<<< HEAD
-linea3
-linea4
-linea5
-=======
-linea1
->>>>>>> parent of 55d94df... agregando linea2
-=======
-linea2
->>>>>>> parent of ed731ae... se agrega linea 3
-=======
-linea2
->>>>>>> parent of ed731ae... se agrega linea 3
-=======
-linea3
->>>>>>> parent of 207548d... se agrega linea 4
