@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 linea1
+<<<<<<< HEAD
 linea2
 linea3
 linea4
@@ -7,3 +8,6 @@ linea5
 =======
 linea1
 >>>>>>> parent of 55d94df... agregando linea2
+=======
+linea2
+>>>>>>> parent of ed731ae... se agrega linea 3
